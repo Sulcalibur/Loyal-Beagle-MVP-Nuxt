@@ -1,0 +1,1 @@
+# Loyal-Beagle-MVP-Nuxt
